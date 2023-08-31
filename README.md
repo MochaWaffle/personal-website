@@ -1,2 +1,2 @@
 # personal-website
-Hello! =) This is a work in progress personal website that I'm making
+Hello! This is currently a discontinued website I made. I may in the future update it or re-create a new one.
